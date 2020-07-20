@@ -1,0 +1,54 @@
+
+div,h2,h3{
+  color: blue;
+  text-align: center;
+}
+
+h2{
+
+  align-self: center;
+  font-size: 60px;
+  color:teal ;
+  margin-top:300px;
+
+}
+
+
+body{
+  background-color : lightblue;
+}
+div {
+width: 200 px;
+height: 50 px;
+font-size: 40 px;
+color:teal ;
+font-family: sans-serif;
+}
+button {
+  width: 500 px;
+  height:500 px;
+  font-size: 24px;
+  background-color:teal ;
+  }
+
+  button:hover {
+    background-color : orange;
+  }
+
+
+
+  input[type=text]{
+     width: 70%;
+     padding:12px 20px;
+     margin:8px 0;
+     box-sizing:border-box;
+ }
+
+ #search,#lucky {
+    width: 300px;
+    height:400px
+    padding:12px 20px;
+    margin:8px 0;
+    box-sizing:border-box;
+    background-color:teal ;
+}
